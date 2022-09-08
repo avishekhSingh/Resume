@@ -13,5 +13,4 @@ export class EducationComponent implements OnInit {
   }
 
   @Input() education:any=[];
-
 }
